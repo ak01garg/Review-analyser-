@@ -1,4 +1,6 @@
 # Review-analyser-
-Classification of reviews about a restaurant using naieve bayes classifier 
+Classified a  dataset containing reviews about a restaurant using Naive Bayes Classifier 
 
-Data Cleaning is done through Natural Language Processing where all the unwated words have been removed 
+
+Used Natural Language Processing for building Bag Of Words model with the help NLTK and Sci-kit Learn  
+
